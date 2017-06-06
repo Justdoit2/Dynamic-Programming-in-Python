@@ -1,5 +1,6 @@
-"""Design an algorithm(using dynamic programming) that gives an array A of n positive integers and an integer value v determine if there is a subset of values in A that sum to v. Ex: A={1,2,3} and v=5 will return true, and 
-    if v=9 , then return false
+"""Design an algorithm(using dynamic programming) that gives an array A of n positive integers and 
+an integer value v determine if there is a subset of values in A that sum to v. Ex: A={1,2,3} and v=5 will return true, and 
+if v=9 , then return false
 """
 
 
