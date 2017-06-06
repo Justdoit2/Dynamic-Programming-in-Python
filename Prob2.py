@@ -1,5 +1,6 @@
 """
-Design an algorithm (using dynamic programming) that given an array A of n integers finds the length of the longest increasing subsequence of values in A. For example, 
+Design an algorithm (using dynamic programming) that given an array A of n integers 
+finds the length of the longest increasing subsequence of values in A. For example, 
 if A = {1, 6, 3, 7}, the answer is 3.
 
 """
